@@ -1,0 +1,13 @@
+@import url("../../public/css/gil-zone-marker.css");
+
+.wp-admin .gil-zm-warning{
+	color: red;
+	font-weight: 700;
+}
+
+.wp-admin .gil-zm-wrapper{
+	display: none;
+	float: right;
+	margin-left: 280px;
+	width: 75%;
+}

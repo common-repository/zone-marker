@@ -1,0 +1,309 @@
+# Copyright (C) 2021 Andy Gilbert
+# This file is distributed under the same license as the Zone Marker plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Zone Marker 1.0.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/gil-zone-marker\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-07T20:08:53+00:00\n"
+"PO-Revision-Date: 2021-04-07 21:22+0100\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Domain: gil-zone-marker\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de_DE\n"
+
+#. Plugin Name of the plugin
+msgid "Zone Marker"
+msgstr "Zonenmarkierung"
+
+#. Plugin URI of the plugin
+msgid "https://www.routetoweb.co.uk/zone-marker"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Highlight an area on a map and submit it. Ideal for marking out an area for "
+"drones to capture or land boundaries for legal or other purposes."
+msgstr ""
+"Markieren Sie einen Bereich auf einer Karte und versenden Sie diesen. Die "
+"Funktion ist ideal zum Abstecken eines Bereichs für Drohnenaufnahmen oder "
+"von Grundstücksgrenzen für rechtliche oder andere Zwecke."
+
+#. Author of the plugin
+msgid "Andy Gilbert"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.routetoweb.co.uk"
+msgstr ""
+
+#: admin/gil-zone-marker-admin.php:37
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: admin/gil-zone-marker-admin.php:39
+msgid "Layout"
+msgstr ""
+
+#: admin/gil-zone-marker-admin.php:96
+msgid "Google Key"
+msgstr ""
+
+#: admin/gil-zone-marker-admin.php:103
+msgid "The is a long string of mixed characters"
+msgstr ""
+
+#: admin/gil-zone-marker-admin.php:105
+msgid "See instructions above"
+msgstr ""
+
+#: admin/gil-zone-marker-admin.php:111
+msgid "Default Latitude"
+msgstr ""
+
+#: admin/gil-zone-marker-admin.php:120 admin/gil-zone-marker-admin.php:135
+msgid "Please change the default value (max. 6 decimal points)"
+msgstr ""
+
+#: admin/gil-zone-marker-admin.php:126
+msgid "Default Longitude"
+msgstr ""
+
+#: admin/gil-zone-marker-admin.php:143
+msgid " Plugin Layout Options"
+msgstr ""
+
+#: admin/gil-zone-marker-admin.php:150
+msgid "Heading"
+msgstr "Kopfzeile"
+
+#: admin/gil-zone-marker-admin.php:157
+msgid "Max 40 characters"
+msgstr "Maximal 40 Zeichen"
+
+#: admin/gil-zone-marker-admin.php:165
+msgid "Intro"
+msgstr "Einleitung"
+
+#: admin/gil-zone-marker-admin.php:172
+msgid "Introductory paragraph (450 characters)"
+msgstr "Einleitung Textabschnitt (bis 450 Zeichen)"
+
+#: admin/gil-zone-marker-admin.php:174
+msgid "Max 450 characters including spaces"
+msgstr "Maximal 450 Zeichen"
+
+#: admin/gil-zone-marker-admin.php:180
+msgid "Checkbox 1"
+msgstr ""
+
+#: admin/gil-zone-marker-admin.php:187 admin/gil-zone-marker-admin.php:202
+msgid "Max 25 characters"
+msgstr "Maximal 25 Zeichen"
+
+#: admin/gil-zone-marker-admin.php:195
+msgid "Checkbox 2"
+msgstr ""
+
+#: admin/gil-zone-marker-admin.php:210
+msgid "Show submitted"
+msgstr "Gesendetes anzeigen"
+
+#: admin/gil-zone-marker-admin.php:217
+msgid "Display the email contents after submission"
+msgstr "Anzeige des E-Mail-Inhalts nach dem Senden"
+
+#: admin/gil-zone-marker-admin.php:233
+msgid "Note, this plugin will not work without a valid Google Key."
+msgstr ""
+
+#: admin/gil-zone-marker-admin.php:234
+msgid ""
+"Enter your Google Key below (obtainable from your Google Cloud Platform)."
+msgstr ""
+"Geben Sie unten Ihren Google-Schlüssel ein (den Sie von Ihrer Google Cloud "
+"Platform erhalten)"
+
+#: admin/gil-zone-marker-admin.php:235
+msgid "Ensure that The restrictions have been set and the correct API enabled."
+msgstr ""
+"Vergewissern Sie sich, dass die Einschränkungen eingestellt und die richtige "
+"API aktiviert ist."
+
+#: admin/gil-zone-marker-admin.php:237
+msgid "To get your Google Map API."
+msgstr "Um die Google Map API zu erhalten."
+
+#: admin/gil-zone-marker-admin.php:239
+msgid "login into"
+msgstr "Login"
+
+#: admin/gil-zone-marker-admin.php:239
+msgid "and selected maps in the popup"
+msgstr "und ausgewählte Karten im Popup"
+
+#: admin/gil-zone-marker-admin.php:240
+msgid "Create a new project"
+msgstr "Ein neues Projekt erstellen"
+
+#: admin/gil-zone-marker-admin.php:241
+msgid "Enable billing"
+msgstr "Aktivieren der Abrechnung"
+
+#: admin/gil-zone-marker-admin.php:242
+msgid "Enable Google API"
+msgstr "Google API aktivieren"
+
+#: admin/gil-zone-marker-admin.php:243
+msgid "Restrict the keys usage by following the link to the API Console"
+msgstr ""
+"Schränken Sie die Verwendung der Schlüssel ein, indem Sie dem Link zur API-"
+"Konsole folgen"
+
+#: admin/gil-zone-marker-admin.php:244
+msgid "Select restrictions. e.g. HTTP referrers"
+msgstr "Einschränkungen auswählen. Ich habe HTTP-Referrers verwendet"
+
+#: admin/gil-zone-marker-admin.php:245
+msgid "Add an item"
+msgstr "Ein Element hinzufügen"
+
+#: admin/gil-zone-marker-admin.php:247
+msgid "Restrict key"
+msgstr "Key (API) einschränken"
+
+#: admin/gil-zone-marker-admin.php:248
+msgid ""
+"Add Maps Javascript API, Maps Embed API, Maps Static API, Geolocation API, "
+"Geocoding API to the selected filter"
+msgstr ""
+
+#: admin/gil-zone-marker-admin.php:249
+msgid "Save"
+msgstr "Speichern"
+
+#: admin/gil-zone-marker-admin.php:251
+msgid "How to use"
+msgstr "Wie benutzt man"
+
+#: admin/gil-zone-marker-admin.php:253
+msgid "Create a new page"
+msgstr "Erstellen Sie eine neue Seite"
+
+#: admin/gil-zone-marker-admin.php:254
+msgid "Add the shortcode [zonemarker] to the page"
+msgstr ""
+
+#: admin/gil-zone-marker-admin.php:267
+msgid "Settings for the form and other layout options"
+msgstr "Einstellungen für das Formular und andere Layout-Optionen"
+
+#: gil-zone-marker.php:105
+msgid ""
+"Please enter the address, town or postcode of the location that you wish to "
+"highlight"
+msgstr "Bitte geben sie den Ortsnamen und die nächstbeste Adresse ein"
+
+#: gil-zone-marker.php:108
+msgid "Address, town or postcode"
+msgstr "Strasse Strassennummer, Postleitzahl Ort"
+
+#: gil-zone-marker.php:111
+msgid "Find location"
+msgstr "Suchen"
+
+#: gil-zone-marker.php:113
+msgid "Current Location"
+msgstr "Standort suchen"
+
+#: gil-zone-marker.php:115
+msgid "Reset Map"
+msgstr "Karte zurücksetsen"
+
+#: gil-zone-marker.php:123
+msgid ""
+"Create an area on the map by clicking on the map to create boundary points. "
+"These points can be dragged to improve the accuracy. To remove a point, "
+"click it"
+msgstr ""
+"Erstellen sie eine Fläche, indem sie auf die Karte klicken. Die Punkte "
+"können verschoben werden. Um sie wieder zu entfernen, klicken sie erneut "
+"darauf"
+
+#: gil-zone-marker.php:131 gil-zone-marker.php:241
+msgid "Site name"
+msgstr "Name der Fläche"
+
+#: gil-zone-marker.php:134
+msgid "Brief description"
+msgstr "Beschreibung"
+
+#: gil-zone-marker.php:138
+msgid "Enquiry type"
+msgstr "Anfragetyp"
+
+#: gil-zone-marker.php:150
+msgid "Your email address"
+msgstr "Ihre Email Adresse"
+
+#: gil-zone-marker.php:155
+msgid "Your name"
+msgstr "Ihr Name"
+
+#: gil-zone-marker.php:156
+msgid "First and last name"
+msgstr "Vor und Nachname / Firma"
+
+#: gil-zone-marker.php:159
+msgid "Submit"
+msgstr "Absenden"
+
+#: gil-zone-marker.php:239
+msgid "Name"
+msgstr ""
+
+#: gil-zone-marker.php:240
+msgid "Email"
+msgstr ""
+
+#: gil-zone-marker.php:244
+msgid "Link"
+msgstr ""
+
+#: gil-zone-marker.php:244
+msgid "no markers"
+msgstr ""
+
+#: gil-zone-marker.php:246
+msgid "Search Address"
+msgstr "Suchadresse"
+
+#: gil-zone-marker.php:247
+msgid "Description"
+msgstr "Beschreibung"
+
+#: gil-zone-marker.php:248
+msgid "Project type"
+msgstr "Anfragetyp"
+
+#: gil-zone-marker.php:249
+msgid "Latitude, longitude"
+msgstr ""
+"Vielen Dank für die Kontaktaufnahme, wir setzen uns bald mit Ihnen in "
+"Verbindung"
+
+#: gil-zone-marker.php:251
+msgid "Area"
+msgstr ""
+
+#: gil-zone-marker.php:281
+msgid "Thanks for contacting us, expect a response soon"
+msgstr ""
+
+#: gil-zone-marker.php:282
+msgid "Back to the map"
+msgstr ""

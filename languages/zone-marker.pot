@@ -1,0 +1,257 @@
+# Copyright (C) 2019 Andy Gilbert
+# This file is distributed under the same license as the Zone Marker plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Zone Marker 0.9.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/gil-zone-marker\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-05-15T09:51:35+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.2.0\n"
+"X-Domain: zone-marker\n"
+
+#. Plugin Name of the plugin
+msgid "Zone Marker"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Highlight an area on a map and submit it. Ideal for marking out an area for "
+"drones to capture or land boundaries for legal or other purposes."
+msgstr ""
+
+#. Author of the plugin
+msgid "Andy Gilbert"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.routetoweb.co.uk/wp-plugins/zone-marker"
+msgstr ""
+
+#: gil-zone-marker.php:64
+msgid "Pinpoint your site"
+msgstr ""
+
+#: gil-zone-marker.php:68
+msgid ""
+"Please enter the address, town or postcode of the location that you wish to "
+"highlight"
+msgstr ""
+
+#: gil-zone-marker.php:71
+msgid "Address, town or postcode"
+msgstr ""
+
+#: gil-zone-marker.php:73
+msgid "Find location"
+msgstr ""
+
+#: gil-zone-marker.php:75
+msgid "Current Location"
+msgstr ""
+
+#: gil-zone-marker.php:77
+msgid "Reset Map"
+msgstr ""
+
+#: gil-zone-marker.php:84
+msgid ""
+"Create an area on the map by clicking on the map to create boundary points. "
+"These points can be dragged to improve the accuracy. To remove a point, "
+"click it"
+msgstr ""
+
+#: gil-zone-marker.php:89
+msgid "Link"
+msgstr ""
+
+#: gil-zone-marker.php:92
+msgid "Site name (required)"
+msgstr ""
+
+#: gil-zone-marker.php:95
+msgid "Brief description"
+msgstr ""
+
+#: gil-zone-marker.php:99
+msgid "Enquiry type"
+msgstr ""
+
+#: gil-zone-marker.php:120
+msgid "Your email address"
+msgstr ""
+
+#: gil-zone-marker.php:125
+msgid "Your name"
+msgstr ""
+
+#: gil-zone-marker.php:126
+msgid "First and last name"
+msgstr ""
+
+#: gil-zone-marker.php:129
+msgid "Submit"
+msgstr ""
+
+#: gil-zone-marker.php:191
+msgid "Name"
+msgstr ""
+
+#: gil-zone-marker.php:192
+msgid "Email"
+msgstr ""
+
+#: gil-zone-marker.php:193
+msgid "Site name"
+msgstr ""
+
+#: gil-zone-marker.php:195
+msgid "Search Address"
+msgstr ""
+
+#: gil-zone-marker.php:196
+msgid "Description"
+msgstr ""
+
+#: gil-zone-marker.php:197
+msgid "Project type"
+msgstr ""
+
+#: gil-zone-marker.php:219
+msgid "Thanks for contacting us, expect a response soon"
+msgstr ""
+
+#: gil-zone-marker.php:220
+msgid "Back to the map"
+msgstr ""
+
+#: gil-zone-marker.php:222
+msgid "An unexpected error occurred"
+msgstr ""
+
+#: gil-zone-marker.php:259
+msgid "Settings"
+msgstr ""
+
+#: gil-zone-marker.php:261
+msgid "Layout"
+msgstr ""
+
+#: gil-zone-marker.php:317
+msgid "Google Key"
+msgstr ""
+
+#: gil-zone-marker.php:331
+msgid "Default Latitude"
+msgstr ""
+
+#: gil-zone-marker.php:345
+msgid "Default Longitude"
+msgstr ""
+
+#: gil-zone-marker.php:368
+msgid "Heading"
+msgstr ""
+
+#: gil-zone-marker.php:375
+msgid "Max 40 characters"
+msgstr ""
+
+#: gil-zone-marker.php:382
+msgid "Intro"
+msgstr ""
+
+#: gil-zone-marker.php:389
+msgid "Introductory paragraph (450 characters)"
+msgstr ""
+
+#: gil-zone-marker.php:396
+msgid "Checkbox 1"
+msgstr ""
+
+#: gil-zone-marker.php:403 gil-zone-marker.php:417 gil-zone-marker.php:431
+msgid "Max 25 characters"
+msgstr ""
+
+#: gil-zone-marker.php:410
+msgid "Checkbox 2"
+msgstr ""
+
+#: gil-zone-marker.php:424
+msgid "Checkbox 3"
+msgstr ""
+
+#: gil-zone-marker.php:438
+msgid "Checkbox 4"
+msgstr ""
+
+#: gil-zone-marker.php:452
+msgid "Show submitted"
+msgstr ""
+
+#: gil-zone-marker.php:459
+msgid "Display the email contents after submission"
+msgstr ""
+
+#: gil-zone-marker.php:472
+msgid ""
+"Enter your Google Key below (obtainable from your Google Cloud Platform)."
+msgstr ""
+
+#: gil-zone-marker.php:473
+msgid "Ensure that The restrictions have been set and the correct API enabled."
+msgstr ""
+
+#: gil-zone-marker.php:475
+msgid "To get your Google Map API."
+msgstr ""
+
+#: gil-zone-marker.php:477
+msgid "login into"
+msgstr ""
+
+#: gil-zone-marker.php:477
+msgid "and selected maps in the popup"
+msgstr ""
+
+#: gil-zone-marker.php:478
+msgid "Create a new project"
+msgstr ""
+
+#: gil-zone-marker.php:479
+msgid "Enable billing"
+msgstr ""
+
+#: gil-zone-marker.php:480
+msgid "Enable Google API"
+msgstr ""
+
+#: gil-zone-marker.php:481
+msgid "Restrict the keys usage by following the link to the API Console"
+msgstr ""
+
+#: gil-zone-marker.php:482
+msgid "Select restrictions. I've use HTTP referrers"
+msgstr ""
+
+#: gil-zone-marker.php:483
+msgid "Add an item"
+msgstr ""
+
+#: gil-zone-marker.php:485
+msgid "Restrict key"
+msgstr ""
+
+#: gil-zone-marker.php:486
+msgid ""
+"Add Maps Javascript API, Maps Embed API, Maps Static API, Geolocation API, "
+"Geocoding API to the selected filter"
+msgstr ""
+
+#: gil-zone-marker.php:498
+msgid "Settings for the form and other layout options"
+msgstr ""
